@@ -1,0 +1,15 @@
+{
+  "asset_type": "agent_evaluation_benchmark",
+  "delivery": {
+    "format": "zip",
+    "network_required_at_runtime": false,
+    "runtime": "harbor",
+    "schema_version": "1.4"
+  },
+  "language": "python",
+  "license": "proprietary_nonexclusive_by_agreement",
+  "name": "boundarygate-security-lab",
+  "task_count": 1,
+  "task_path": ".",
+  "version": "1.0.0"
+}
