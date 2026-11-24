@@ -1,0 +1,5 @@
+Copyright (c) 2026 the seller of record. All rights reserved.
+
+Rights to use, publish, redistribute, or sublicense this benchmark are governed by the marketplace purchase or a separate written agreement with the seller of record. Possession of a review copy does not grant those rights.
+
+The referenced Python image, Python standard library, and Harbor runtime retain their upstream licenses. They are not redistributed in this ZIP.
