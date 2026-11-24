@@ -1,0 +1,14 @@
+[
+  {
+    "allowed": true,
+    "code": "allow",
+    "targets": [
+      "/alpha/reports/a.txt"
+    ]
+  },
+  {
+    "allowed": true,
+    "code": "cached",
+    "targets": []
+  }
+]
